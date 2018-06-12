@@ -1,2 +1,2 @@
 # android-studio-settings
-A repo for my android studio settings
+A repo for my [Android Studio](https://developer.android.com/studio/) settings
